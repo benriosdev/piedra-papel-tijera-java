@@ -1,4 +1,4 @@
-# piedra-papel-tijera-java
+# piedra-papel-tijera Java
 Este juego fue mi primer mini proyecto con Java, hecho para una PAC de desarollo del curso de Desarrollo de aplicaciones Web "Programación A" del profesor Alberto Castedo Espeso que actualmente estoy cursando. Es una app de consola que simula el clásico juego de piedra, papel y tijera.
 
 Master Strategy, Outsmart Opponents, Win Every Time
@@ -11,11 +11,11 @@ Getting Started
 Prerequisites
 Installation
 
-* piedra-papel-tijera-java is a console-based Rock-Paper-Scissors game developed as a beginner Java project, perfect for learning fundamental programming concepts through an interactive experience.
+* piedra-papel-tijera is a console-based Rock-Paper-Scissors game developed as a beginner Java project, perfect for learning fundamental programming concepts through an interactive experience.
 
-Why piedra-papel-tijera-java?
+- Why piedra-papel-tijera-java?
 
-This project aims to help new developers grasp core Java skills. The core features include:
+* This project aims to help new developers grasp core Java skills. The core features include:
 
 📝 🎮 User Interaction: Engages players with a simple command-line interface to play the game.
 
@@ -28,16 +28,17 @@ This project aims to help new developers grasp core Java skills. The core featur
 🎯 🔍 Practical Example: Serves as a foundational project for mastering Java programming fundamentals.
 Getting Started
 
-Prerequisites
+- Prerequisites
 
-This project requires the following dependencies:
+* This project requires the following dependencies:
 
-Programming Language: unknown
-Installation
+Programming Language: Java
 
-Build piedra-papel-tijera-java from the source and install dependencies:
+- Installation
 
-Clone the repository:
+- Build piedra-papel-tijera-java from the source and install dependencies:
+
+* Clone the repository:
 
 ❯ git clone https://github.com/benriosdev/piedra-papel-tijera-java
 Navigate to the project directory:

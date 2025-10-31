@@ -4,17 +4,14 @@ Este juego fue mi primer mini proyecto con Java, hecho para una PAC de desarollo
 Master Strategy, Outsmart Opponents, Win Every Time
 
 
-Table of Contents
+#Table of Contents
 
 Overview
 Getting Started
 Prerequisites
 Installation
-Usage
-Testing
-Overview
 
-piedra-papel-tijera-java is a console-based Rock-Paper-Scissors game developed as a beginner Java project, perfect for learning fundamental programming concepts through an interactive experience.
+* piedra-papel-tijera-java is a console-based Rock-Paper-Scissors game developed as a beginner Java project, perfect for learning fundamental programming concepts through an interactive experience.
 
 Why piedra-papel-tijera-java?
 

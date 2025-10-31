@@ -11,7 +11,7 @@ Getting Started
 Prerequisites
 Installation
 
-* piedra-papel-tijera is a console-based Rock-Paper-Scissors game developed as a beginner Java project, perfect for learning fundamental programming concepts through an interactive experience.
+* piedra-papel-tijera.java is a console-based Rock-Paper-Scissors game developed as a beginner Java project, perfect for learning fundamental programming concepts through an interactive experience.
 
 - Why piedra-papel-tijera-java?
 

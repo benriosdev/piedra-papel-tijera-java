@@ -18,9 +18,13 @@ Why piedra-papel-tijera-java?
 This project aims to help new developers grasp core Java skills. The core features include:
 
 📝 🎮 User Interaction: Engages players with a simple command-line interface to play the game.
+
 🔧 🧱 Clear Code Structure: Designed with readability and educational value in mind, making it easy to understand and modify.
+
 💡 📚 Learning Focus: Demonstrates control flow, user input handling, and basic object-oriented principles.
+
 ⚙️ 🚀 Lightweight & Quick Setup: Minimal dependencies, enabling rapid deployment and testing.
+
 🎯 🔍 Practical Example: Serves as a foundational project for mastering Java programming fundamentals.
 Getting Started
 
